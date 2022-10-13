@@ -1,0 +1,55 @@
+h2{
+color: white;
+background-color: #000000;
+text-align: center;
+border-width: 2px white solid;
+
+}
+
+.first{
+    color: #fdf6f6;
+}
+
+.Second{
+    color: rgb(248, 248, 245);
+    border-width: 2px white solid;
+}
+.first.caption{
+    text-align: center;
+    border: 1px black solid;
+    font-style: oblique;
+    color: rgb(250, 250, 253);
+    background-color: rgb(23, 28, 32);
+    background-blend-mode: color-burn;
+    border: width 1px;
+    border-bottom-left-radius: 2px;
+    margin-left: auto;
+    margin-right: auto;
+    border-width: 2px white solid;
+}
+
+#content{
+    border: 1px rgb(247, 247, 248) dotted;
+    background-color: rgb(8, 8, 8);
+    padding:20px;
+} 
+a[href]{
+    color:#f1eeee;
+    font-style: inherit;
+    text-align: right;
+    background-color: rgb(1, 10, 14);
+}
+body{
+background-color: rgb(204, 193, 198);
+
+}
+img{
+ 
+border: 2px white solid;
+height: auto;
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+
+}
