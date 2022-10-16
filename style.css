@@ -1,0 +1,54 @@
+h2{
+    color:brown;
+    background-color: lightslategray;
+    text-decoration:underline;
+    font-style: italic;
+    text-align: right;
+
+    margin:2px;
+    padding:2px;
+}
+
+
+
+ 
+
+p{
+
+    color:blueviolet;
+    column-count: 2;
+}
+
+
+
+
+
+h3{
+    color: #a52a2a;
+    background-color: lightslategray;
+    text-decoration:underline;
+    text-align: right;
+
+}
+
+
+
+ul{
+    /* border: 2px;
+    border-color: blue;
+    border-style: dotted;  */
+    border:2px crimson dotted
+    
+}
+li{
+list-style-type:square;
+text-shadow: 2px 2px lightgray;
+
+
+}
+
+span{
+    display:inline-block;
+    margin:20px;
+    padding:20px;
+}
